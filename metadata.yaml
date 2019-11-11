@@ -1,5 +1,8 @@
 _repo: A-Modern-Zoroastrian_60631
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60631-h/images/cover.jpg
 creator:
   author:
     agent_name: Laing, S. (Samuel)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38056
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Laing_(science_writer)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60631#A-Modern-Zoroastrian
 gutenberg_issued: '2019-11-04'
 gutenberg_type: Text
 identifiers:
