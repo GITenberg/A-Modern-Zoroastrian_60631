@@ -1,0 +1,28 @@
+_repo: A-Modern-Zoroastrian_60631
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Laing, S. (Samuel)
+    alias: Laing, Samuel
+    birthdate: 1812
+    deathdate: 1897
+    gutenberg_agent_id: '38056'
+    url: http://www.gutenberg.org/2009/agents/38056
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Laing_(science_writer)
+description: ''
+gutenberg_issued: '2019-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60631'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zoroastrianism'
+- !lcsh 'Science'
+- !lcsh 'Religion'
+- !lcc 'Q'
+- GITenberg
+title: A Modern Zoroastrian
+url: http://www.gutenberg.org/ebooks/60631
